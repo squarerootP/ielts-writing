@@ -1,0 +1,9 @@
+{
+  "name": "ielts-writing",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "IELTS notes reconstructed from a Notion export",
+  "scripts": {"build": "node scripts/build.mjs", "check": "node scripts/check.mjs"},
+  "engines": {"node": ">=20"}
+}

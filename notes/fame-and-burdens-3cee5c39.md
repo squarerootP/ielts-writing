@@ -1,0 +1,9 @@
+# Fame and burdens
+
+Fame and its impact on the lifestyle of celebrities **fascinates** many people. Because of this, stories about them help to sell thousands of newspapers and magazines. However, the benefits of fame are not without their challenges.
+
+There are clear advantages to being famous. The images presented in the media show us celebrities enjoying an enviable lifestyle: they live in huge mansions, drive expensive cars, and wear the latest in high fashion. Thus, fame clearly brings great wealth. In addition, their frequent appearances in the media mean that celebrities have an influence that **extends beyond their professional skills**. This influence **stems from** the fact that young people want to be like them (can we use aspire to emulate them instead?), and so the famous can earn even more money by endorsing different products and brands. Although just being in the spotlight may be rewarding, the main benefits of fame appear to be financial and material.
+
+Nevertheless, this level of fame also has its problems. The ability to influence others and the notion of fame itself are both dependent on appearing in the media on a regular basis, which means that celebrities have very little privacy. The same media that creates their fame is also very happy to share stories that are less positive. In fact, **it could be argued that** negative stories sell more newspapers or attract more clicks than any other. This puts and enormous amount of pressure not only on the individuals concerned, but also on the people close to them. As a result, their relationships and family life suffer. Clearly, the fortune that stems from fame comes at a substantial personal cost.
+
+Im summary, although there are clear financial benefits to being famous, there are also enormous personal challenges. In my view, the constant media attention is far too intrusive, and the loss of privacy is much too high a price to pay for the financial rewards.

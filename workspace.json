@@ -1,0 +1,259 @@
+{
+  "title": "IELTS Writing",
+  "pages": [
+    {
+      "id": "3cfe5c394f62807e93b8eca0c60230a8",
+      "title": "IELTS Writing Practice",
+      "path": "notes/ielts-writing-practice-3cfe5c39.md",
+      "parent": null
+    },
+    {
+      "id": "3cfe5c394f628032853ecfc81b71718c",
+      "title": "Cam21 WR1",
+      "path": "notes/cam21-wr1-3cfe5c39.md",
+      "parent": "3cfe5c394f62807e93b8eca0c60230a8"
+    },
+    {
+      "id": "3d0e5c394f6280d3a99ccf156f5ba645",
+      "title": "IELTS writing snippets",
+      "path": "notes/ielts-writing-snippets-3d0e5c39.md",
+      "parent": null
+    },
+    {
+      "id": "3d1e5c394f6280858bd0eda8abb02cf2",
+      "title": "Part 1",
+      "path": "notes/part-1-3d1e5c39.md",
+      "parent": "3d0e5c394f6280d3a99ccf156f5ba645"
+    },
+    {
+      "id": "3d5e5c394f628028b818c31b816a95f7",
+      "title": "Series: Bar chart",
+      "path": "notes/series-bar-chart-3d5e5c39.md",
+      "parent": "3d1e5c394f6280858bd0eda8abb02cf2"
+    },
+    {
+      "id": "3d1e5c394f6280529893f377428bb23c",
+      "title": "BC0: income groups distribution",
+      "path": "notes/bc0-income-groups-distribution-3d1e5c39.md",
+      "parent": "3d5e5c394f628028b818c31b816a95f7"
+    },
+    {
+      "id": "3d5e5c394f62802bae0bc24bf3f0a64e",
+      "title": "Series: Line graph",
+      "path": "notes/series-line-graph-3d5e5c39.md",
+      "parent": "3d1e5c394f6280858bd0eda8abb02cf2"
+    },
+    {
+      "id": "3d3e5c394f6280a989b9f8421b1aa142",
+      "title": "LG0: household regular car ownership",
+      "path": "notes/lg0-household-regular-car-ownership-3d3e5c39.md",
+      "parent": "3d5e5c394f62802bae0bc24bf3f0a64e"
+    },
+    {
+      "id": "3d5e5c394f62802bb181f18a00388cc0",
+      "title": "LG1: growth rate in Algeria, China, and Argentina",
+      "path": "notes/lg1-growth-rate-in-algeria-china-and-argentina-3d5e5c39.md",
+      "parent": "3d3e5c394f6280a989b9f8421b1aa142"
+    },
+    {
+      "id": "3d5e5c394f6280109009df5e15e38fd2",
+      "title": "LG2: number of crimes in London",
+      "path": "notes/lg2-number-of-crimes-in-london-3d5e5c39.md",
+      "parent": "3d5e5c394f62802bae0bc24bf3f0a64e"
+    },
+    {
+      "id": "3d1e5c394f62804bbf1eddbc34499e02",
+      "title": "LG3: food consumption in Australia",
+      "path": "notes/lg3-food-consumption-in-australia-3d1e5c39.md",
+      "parent": "3d5e5c394f62802bae0bc24bf3f0a64e"
+    },
+    {
+      "id": "3d7e5c394f628052aafbcfadf14a953b",
+      "title": "LG4: car expenditures",
+      "path": "notes/lg4-car-expenditures-3d7e5c39.md",
+      "parent": "3d5e5c394f62802bae0bc24bf3f0a64e"
+    },
+    {
+      "id": "3d5e5c394f6280beb449fe55132fe473",
+      "title": "Series: Map",
+      "path": "notes/series-map-3d5e5c39.md",
+      "parent": "3d1e5c394f6280858bd0eda8abb02cf2"
+    },
+    {
+      "id": "3d2e5c394f6280fb84e3c4df562cff47",
+      "title": "M0: development of Stromer Town",
+      "path": "notes/m0-development-of-stromer-town-3d2e5c39.md",
+      "parent": "3d5e5c394f6280beb449fe55132fe473"
+    },
+    {
+      "id": "3d7e5c394f62800fbd9cc8b6f525a757",
+      "title": "M1: small village residential development",
+      "path": "notes/m1-small-village-residential-development-3d7e5c39.md",
+      "parent": "3d5e5c394f6280beb449fe55132fe473"
+    },
+    {
+      "id": "3d5e5c394f628043b7c5f2231bbfe70b",
+      "title": "Series: Pie chart",
+      "path": "notes/series-pie-chart-3d5e5c39.md",
+      "parent": "3d1e5c394f6280858bd0eda8abb02cf2"
+    },
+    {
+      "id": "3d2e5c394f6280c5a13bd5e4c55c8572",
+      "title": "PC0: exports between the US and Vietnam",
+      "path": "notes/pc0-exports-between-the-us-and-vietnam-3d2e5c39.md",
+      "parent": "3d5e5c394f628043b7c5f2231bbfe70b"
+    },
+    {
+      "id": "3d6e5c394f62803f96f7ce36ce319ded",
+      "title": "PC1: sport preferences",
+      "path": "notes/pc1-sport-preferences-3d6e5c39.md",
+      "parent": "3d5e5c394f628043b7c5f2231bbfe70b"
+    },
+    {
+      "id": "3d6e5c394f6280e5a8cac9bd97698872",
+      "title": "PC2: private insurance policies",
+      "path": "notes/pc2-private-insurance-policies-3d6e5c39.md",
+      "parent": "3d5e5c394f628043b7c5f2231bbfe70b"
+    },
+    {
+      "id": "3d5e5c394f6280dd81d3fcaf99d8db4d",
+      "title": "Series: Process",
+      "path": "notes/series-process-3d5e5c39.md",
+      "parent": "3d1e5c394f6280858bd0eda8abb02cf2"
+    },
+    {
+      "id": "3d2e5c394f6280fd95d2d0fc53f84dc3",
+      "title": "P0: the HR recruitment process",
+      "path": "notes/p0-the-hr-recruitment-process-3d2e5c39.md",
+      "parent": "3d5e5c394f6280dd81d3fcaf99d8db4d"
+    },
+    {
+      "id": "3d5e5c394f6280fe8844e103b503ac86",
+      "title": "P1: food production chain",
+      "path": "notes/p1-food-production-chain-3d5e5c39.md",
+      "parent": "3d5e5c394f6280dd81d3fcaf99d8db4d"
+    },
+    {
+      "id": "3d5e5c394f628094bf01f3baa0ba2147",
+      "title": "Series: Table",
+      "path": "notes/series-table-3d5e5c39.md",
+      "parent": "3d1e5c394f6280858bd0eda8abb02cf2"
+    },
+    {
+      "id": "3d5e5c394f6280a498b4fb7df6b1fe8d",
+      "title": "TB0: Used book expenses",
+      "path": "notes/tb0-used-book-expenses-3d5e5c39.md",
+      "parent": "3d5e5c394f628094bf01f3baa0ba2147"
+    },
+    {
+      "id": "3d4e5c394f6280d5b4a8ddc958faeec3",
+      "title": "Tips from Codex",
+      "path": "notes/tips-from-codex-3d4e5c39.md",
+      "parent": "3d1e5c394f6280858bd0eda8abb02cf2"
+    },
+    {
+      "id": "3f0e5c394f6280d680a5cd9ce5c55615",
+      "title": "Part2",
+      "path": "notes/part2-3f0e5c39.md",
+      "parent": "3d0e5c394f6280d3a99ccf156f5ba645"
+    },
+    {
+      "id": "3f2e5c394f62804faf2eddc023924104",
+      "title": "Series: Cause - Solution",
+      "path": "notes/series-cause-solution-3f2e5c39.md",
+      "parent": "3f0e5c394f6280d680a5cd9ce5c55615"
+    },
+    {
+      "id": "3f2e5c394f6280a9b048f8683ea458aa",
+      "title": "CS1: Museums attracting more foreign tourists rather than local ones.",
+      "path": "notes/cs1-museums-attracting-more-foreign-tourists-rather-than-l-3f2e5c39.md",
+      "parent": "3f2e5c394f62804faf2eddc023924104"
+    },
+    {
+      "id": "3f0e5c394f628039a952fe17ecaef59d",
+      "title": "Series: Opinion",
+      "path": "notes/series-opinion-3f0e5c39.md",
+      "parent": "3f0e5c394f6280d680a5cd9ce5c55615"
+    },
+    {
+      "id": "3f0e5c394f62805e8e5dc886090176e5",
+      "title": "OP1: Global scientific collaboration",
+      "path": "notes/op1-global-scientific-collaboration-3f0e5c39.md",
+      "parent": "3f0e5c394f628039a952fe17ecaef59d"
+    },
+    {
+      "id": "3f1e5c394f6280da9ac0cd0b95d40db0",
+      "title": "OP2: whether research focuses on health",
+      "path": "notes/op2-whether-research-focuses-on-health-3f1e5c39.md",
+      "parent": "3f0e5c394f628039a952fe17ecaef59d"
+    },
+    {
+      "id": "3f2e5c394f628081b9edf7602594cb03",
+      "title": "OP3: charitable organizations and who they should support",
+      "path": "notes/op3-charitable-organizations-and-who-they-should-support-3f2e5c39.md",
+      "parent": "3f0e5c394f628039a952fe17ecaef59d"
+    },
+    {
+      "id": "3f2e5c394f62801eb3c5ee333903b3ea",
+      "title": "OP3: prolonged overwork leads to heightened economic growth, but runs the risk of increased negative social consequences",
+      "path": "notes/op3-prolonged-overwork-leads-to-heightened-economic-growth-3f2e5c39.md",
+      "parent": "3f0e5c394f628039a952fe17ecaef59d"
+    },
+    {
+      "id": "3f4e5c394f6280e88de9fd10e5fd8284",
+      "title": "Tips from Codex",
+      "path": "notes/tips-from-codex-3f4e5c39.md",
+      "parent": "3f0e5c394f6280d680a5cd9ce5c55615"
+    },
+    {
+      "id": "3cee5c394f628062a91cd4b5cd504e18",
+      "title": "Sample IELTS emulations",
+      "path": "notes/sample-ielts-emulations-3cee5c39.md",
+      "parent": null
+    },
+    {
+      "id": "3cee5c394f628028bbf1c51f0ac470c7",
+      "title": "Fame and burdens",
+      "path": "notes/fame-and-burdens-3cee5c39.md",
+      "parent": "3cee5c394f628062a91cd4b5cd504e18"
+    },
+    {
+      "id": "3cee5c394f6280328468dfc19d044956",
+      "title": "Fame and burdens v2",
+      "path": "notes/fame-and-burdens-v2-3cee5c39.md",
+      "parent": "3cee5c394f628062a91cd4b5cd504e18"
+    },
+    {
+      "id": "3f6e5c394f628055a22dea4135748e7e",
+      "title": "Untitled",
+      "path": "notes/untitled-3f6e5c39.md",
+      "parent": null
+    },
+    {
+      "id": "2e4e5c394f628012b54cc5d4530fc1e1",
+      "title": "Vocab Pages",
+      "path": "notes/vocab-pages-2e4e5c39.md",
+      "parent": null
+    },
+    {
+      "id": "3cfe5c394f6280218b91e7b89e5fe85b",
+      "title": "Vocab Page 1",
+      "path": "notes/vocab-page-1-3cfe5c39.md",
+      "parent": "2e4e5c394f628012b54cc5d4530fc1e1"
+    },
+    {
+      "id": "3cfe5c394f6280e6ade8f1ac5dbfadcb",
+      "title": "Vocab Page 2",
+      "path": "notes/vocab-page-2-3cfe5c39.md",
+      "parent": "2e4e5c394f628012b54cc5d4530fc1e1"
+    },
+    {
+      "id": "3d5e5c394f62804b9bd3d9e4ce0d70ff",
+      "title": "Vocab Page 3",
+      "path": "notes/vocab-page-3-3d5e5c39.md",
+      "parent": "2e4e5c394f628012b54cc5d4530fc1e1"
+    }
+  ],
+  "images": 14,
+  "source_sha256": "5c1e5b0fded120e369e83bb4f339186c949692cc92cb5bfb92c1d2f8b12109cb"
+}
