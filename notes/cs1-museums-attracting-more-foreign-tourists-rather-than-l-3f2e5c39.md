@@ -6,7 +6,7 @@ Many museums and historical sites are mainly visited by tourists but not local p
 
 ---
 
-**Model answer:**
+## Model answer
 
 Many museums and historical sites attract far more tourists than local residents. This is mainly because tourists are naturally interested in learning about the history and culture of the places they visit, while locals often feel that such attractions have little new to offer them. However, museums and local authorities can take several steps to encourage more residents to visit.
 
@@ -16,7 +16,7 @@ To attract more local visitors, museums should first make their exhibitions more
 
 In conclusion, locals often visit museums and historical sites less frequently because they believe they already know enough about their local history and because these places may be poorly promoted or perceived as outdated. Updating exhibitions and improving community-focused marketing would be effective ways to attract more local visitors
 
-**My attempt:**
+## My attempt
 
 Nowadays many museums and historical sites attract far more tourists than local residents. This is chiefly because tourists are inherently interested in learning about the history and culture of the places they visit, while locals often feel that such attractions have little new to offer them. However, museums and local authorities can take several steps to encourage more residents to visit.
 

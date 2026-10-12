@@ -2,7 +2,7 @@
 
 ![image.png](../assets/2f3d5dc6617383b6.png)
 
-**Model 1:** 
+## Model 1
 
 The bar chart **compares the proportions** of residents **belonging to** four annual income groups in Australian cities and regional centres. Overall, the two middle-income **categories accounted for** the **largest share** of the population in both areas. However, regional centres **had greater proportions** of low- and lower-middle-income residents, wheares middle- and high-income earners **were more prevalent** in cities.
 
@@ -10,7 +10,7 @@ In cities, the middle-income group was the largest, **representing** 35% of the 
 
 A similar geographical contrast **can be seen** at the two ends of the income scale. High-income earners **accounted for** 20% of city residents, **compared with** only 15% in regional centres. **Conversely**, the low-income group **constituted** approximately 22% of the population in regional centres, considerably higher than **the 13% recorded** in cities
 
-**grammar keys:** 
+### Grammar keys
 
 - **account for …. proportions**
 - **constitute …**
@@ -32,7 +32,7 @@ A similar geographical contrast **can be seen** at the two ends of the income sc
 
 ---
 
-Model 2:
+## Model 2
 
 The bar chart compares the proportions of people in four annual income groups living in Australian cities and regional centres. Overall, lower-middle- and middle-income earners **made up the majority of** the population in both areas. However, regional centres had higher proportions of people in the two lower **income brackets**, whereas cities **had larger shares** of middle- and high-income residents.
 

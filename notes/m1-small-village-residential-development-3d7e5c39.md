@@ -4,9 +4,14 @@
 
 ---
 
+## Model 1
+
 The maps illustrate **how** a small village in western Ireland **has changed since 2000**.
+
 Overall, the village **has undergone considerable residential development**, **together with changes to** its roads and amenities. Farmland, the market and the dock have disappeared, while the shops and hotel remain. A park, restaurants and a car park have been introduced.
+
 In 2000, farmland **occupied the north-western corner**. Four houses stood along a short road **branching west from** the main north–south route, while **shops lined the east–west road**. A hotel **was situated east of** the north–south road. On the coast, a market stood near **a dock extending into the sea**.
+
 Today, the farmland **has been converted into** a park. The western residential road **has been lengthened** and numerous houses have **been added along it**. Another branch, also **serving new housing**, has been **constructed east of** the main road. The hotel and shops **remain in place**, although a car park now **adjoins** the hotel. Finally, restaurants have replaced the market, and the dock has been removed.
 
 ## Task-specific phrase bank
@@ -26,9 +31,12 @@ Today, the farmland **has been converted into** a park. The western residential 
 
 ---
 
-Model2:
+## Model 2
 
 The two maps illustrate **how the layout** of a small village in western Ireland **has changed** since 2000.
+
 Overall, the village has **become considerably more residential**, and its road network has been **enlarged accordingly**. Several amenities have also changed: the farmland and market have been replaced by a park and restaurants, while the dock has disappeared. By contrast, the shops and hotel **remain.**
+
 In 2000, four houses were **arranged along** a short road **extending west from** the main north–south route. Farmland **occupied** the north-western **corner**, while shops and a hotel **stood beside** the east–west coastal road. A market **lay south** of this road, close to a dock **projecting into the sea**.
+
 Today, the western side road extends farther and **is lined with substantially more housing**. A second branch and additional houses have also been built east of the main road. The former farmland **is now** a park, and restaurants **occupy the previous market site**. The dock has been removed, whereas the hotel and shops have **retained their original positions**. A car park has also been constructed directly east of the hotel.

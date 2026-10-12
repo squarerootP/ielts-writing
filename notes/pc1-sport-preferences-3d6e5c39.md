@@ -4,9 +4,14 @@
 
 ---
 
+## Model answer
+
 The three pie charts compare the proportions of French secondary-school pupils **preferring five categories** of sport in 1990, 2000 and 2010.
+
 Overall, swimming **dominated in all three years**, whereas tennis **was consistently the least** popular **choice**. Basketball **underwent the largest change**, rising sharply after 2000 **to rank second** by 2010, while football’s share **fell considerably over the same period.**
+
 Swimming was **selected by** 39% of pupils in 1990. **Its share peaked at** 48% ten years later before declining to 41% in 2010, although it **retained a substantial lead throughout**. Tennis accounted for only 4% in both 1990 and 2000 and then increased slightly to 7%.
+
 Basketball and football **each represented** 16% in 1990, but **their subsequent patterns differed markedly**. Basketball initially fell to 7% in 2000 before climbing to 25% in 2010. Football, by contrast, **edged up to** 18% and then dropped to 8%. Meanwhile, the proportion recorded under “other” sports declined moderately from 25% in 1990 to 19% in 2010. As a result, basketball **overtook this category** to **become the second most popular choice** in the final year.
 
 ## Task-specific phrase bank

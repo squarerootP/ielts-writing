@@ -8,7 +8,7 @@
 
 ---
 
-**Model answer**
+## Model answer
 
 **Opinions differ over whether** scientists around the world should cooperate on research projects or whether such collaboration creates unnecessary risks. While international research **can lead to problems involving confidentiality and coordination**, I believe it should be encouraged because it **accelerates scientific progress** and is **essential for addressing problems that cross national borders**.
 
@@ -18,7 +18,7 @@
 
 **In conclusion**, although international scientific research can create **challenges relating to confidentiality and coordination**, these problems can be managed through clear agreements and effective project management. **More importantly**, the **faster exchange of knowledge** and the **ability to address global problems collectively** make international scientific cooperation highly beneficial.
 
-**My attempt**
+## My attempt
 
 Opinions differ over whether scientists around the world should cooperate on research projects or whether such collaboration creates unnecessary risks. While international research can lead to problems relating to confidentiality and coordination, I believe it should be encouraged because it accelerates scientific progress and is essential for addressing challenges that cross national borders.
 

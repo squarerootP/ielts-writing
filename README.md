@@ -6,6 +6,10 @@ My IELTS writing notebook, reconstructed from a Notion Markdown export. It conta
 
 ## Collections
 
+**[Open the online reader](https://squarerootp.github.io/ielts-writing/)**
+
+Task 1 pages pair each model or attempt with the original chart, alternating sides between rows. Task 2 pages show the model answer and personal attempt in adjacent columns. On small screens the columns stack. Phrase banks and feedback sit in expandable sections below the writing. Use **Study highlights** to switch between marked study phrases and plain reading, or **Focus view** for more writing space. Markdown section headings and paragraph spacing are also cleaned up for reading.
+
 See [the workspace index](INDEX.md) for Task 1 (bar charts, line graphs, maps, pie charts, processes and tables), Task 2 (cause–solution and opinion), Cambridge practice, sample essays and vocabulary.
 
 ## Share through GitHub Pages

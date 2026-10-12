@@ -8,7 +8,7 @@
 
 ![image.png](../assets/b553d1f06ef15085.png)
 
-Model 1: 
+## Model 1
 
 The line graph **compares the percentages of households** in Great Britain **with regular use of different numbers of cars** between 1971 and 2007. Overall, **car availability** increased over the period: the proportions of households with two or more cars rose, while the percentage with no car **declined markedly**. By contrast, one-car households **remained relatively stable**.
 
@@ -18,7 +18,7 @@ The **opposite pattern can be seen among** households with multiple cars. The **
 
 ---
 
-Model 2: 
+## Model 2
 
 The graph shows **changes in the number of cars** per household in Great Britain **over a period of 36 years**.
 
@@ -34,7 +34,7 @@ The one-car household **was the most common type** from **the late 1970s onwards
 
 ![image.png](../assets/b553d1f06ef15085.png)
 
-My attempt 1:
+## My attempt 1
 
 The line graph compares the proportions of households in Great Britain with regular access to different numbers of cars from 1971 to 2007.
 

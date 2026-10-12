@@ -19,4 +19,17 @@ for(const p of pages){
 }
 const html=await fs.readFile(path.join(root,'index.html'),'utf8');
 if(html.includes('/* WORKSPACE_DATA */'))throw Error('Reader is not built');
+const built=JSON.parse(html.match(/const pages=(.*);\nconst byId/)[1]);
+if(built.length!==pages.length)throw Error('Reader page count differs from the manifest');
+for(const p of built){
+  if(p.layout==='task1'){
+    const source=await fs.readFile(path.join(root,p.path),'utf8');
+    const expected=(source.match(/^## (?:Model\s*(?:answer|\d+)|My attempt\s*\d*)$/gim)||[]).length;
+    const rows=(p.html.match(/class="practice-row/g)||[]).length;
+    const charts=(p.html.match(/class="task-visual"/g)||[]).length;
+    if(!expected||rows!==expected||charts!==rows)throw Error('Writing/chart pairing failed: '+p.title);
+  }
+  if(p.layout==='task2'&&(!p.html.includes('writing-panel model')||!p.html.includes('writing-panel attempt')))
+    throw Error('Missing model or attempt column: '+p.title);
+}
 console.log(`Verified ${pages.length} pages, ${links} local links and ${images} image references.`);

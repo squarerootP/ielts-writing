@@ -2,7 +2,7 @@
 
 ![image.png](../assets/14eb7185ac17abd8.png)
 
-Model 1:
+## Model 1
 
 The bar chart **compares the percentage growth** in average property prices in Algeria, China and Argentina between 2007 and 2010.
 
@@ -14,7 +14,7 @@ Argentina **showed a less consistent pattern**. Its growth rate **stood at just 
 
 ---
 
-My attempt 1:
+## My attempt 1
 
 The bar graph compares the ~~changes in average property prices growth rates~~  growth rates of average property prices in Algeria, China, and Argentina from 2007 to 2010.
 
@@ -30,7 +30,7 @@ Turning to Argentina, its growth rate began with just over 3%. It then peaked at
 
 ![image.png](../assets/14eb7185ac17abd8.png)
 
-Model 2:
+## Model 2
 
 The bar chart illustrates the annual growth rates of average property prices in Algeria, China and Argentina from 2007 to 2010.
 

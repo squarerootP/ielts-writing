@@ -6,7 +6,7 @@
 
 ---
 
-**Model answer:**
+## Model answer
 
 Opinions differ over whether charities should concentrate on helping people within their own countries or provide assistance wherever the need is greatest. In my view, the most appropriate approach depends largely on the size and capacity of the organization.
 
@@ -16,7 +16,7 @@ On the other hand, larger charities are often well placed to work internationall
 
 In conclusion, charities should not all be expected to operate in the same way. Smaller organizations are often more effective when they concentrate on local needs, whereas larger charities should use their broader resources and networks to support people facing severe hardship, regardless of where they live.
 
-**My attempt:**
+## My attempt
 
 Opinions differ over whether charities should concentrate their resources on helping people within their own country or provide assistance wherever the need is greatest. In my view, the most appropriate approach depends largely on the size and capacity of the organization.
 

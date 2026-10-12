@@ -4,7 +4,7 @@
 
 ![image.png](../assets/e387caffa0ae5e0d.png)
 
-Model 1:
+## Model 1
 
 The line graph **compares the number of armed robberies, assaults and murders recorded** in London between 2003 and 2012.
 
@@ -16,53 +16,54 @@ Assaults, by contrast, fluctuated ~~around~~ between 2,000 and 2,300 cases betwe
 
 ---
 
-- Takeaways
-    - **compares the number of armed robberies, assaults and murders recorded**
-    → Introduces the subject of the graph clearly and formally.
-    - **declined substantially over the period**
-    → Describes a strong downward trend across time.
-    - **increased overall despite some fluctuations**
-    → Shows a general upward trend but acknowledges irregular changes.
-    - **remained far less common than the other two offences**
-    → Highlights relative frequency, useful for comparison.
-    - **changed relatively little by comparison**
-    → Indicates stability compared to other variables.
-    - **was initially the most prevalent crime**
-    → Establishes starting point dominance in the data.
-    - **fell sharply**
-    → Expresses a sudden and significant decrease.
-    - **reaching a low of**
-    → Specifies the lowest point in the trend.
-    - **then recovered**
-    → Signals a rebound after decline.
-    - **remained close to this level until 2012**
-    → Shows stability after change.
-    - **making this the most common crime in**
-    → Draws a conclusion about ranking at the end of the period.
-    - **peaked at roughly**
-    → Marks the highest point in the data.
-    - **before falling and subsequently fluctuating at around**
-    → Describes a peak followed by decline and irregular variation.
-    - **for the rest of the period**
-    → Indicates long-term continuation of a trend.
-        
-        ## Task-specific phrase bank
-        
-        | Phrase | Exact usage condition | Warning / boundary | Example |
-        | --- | --- | --- | --- |
-        | **was initially the most common offence** | Use when a category ranks first at the beginning. | Verify that it is actually above every other series. | Armed robbery was initially the most common offence. |
-        | **was overtaken by** | Use when another series crosses above it. | State the correct crossover year. | Armed robbery was overtaken by assault in 2007. |
-        | **reached a peak of X** | Use for the clear maximum of a series. | A lower secondary rise is not another highest value. | Armed robbery reached a peak of 3,600. |
-        | **fell to a low of X** | Use when a series reaches its minimum following a decline. | Do not use merely because the value is low relative to another category. | The figure fell to a low of 1,000. |
-        | **recovered to X** | Use when a value rises after a preceding decline. | Do not use for an increase that has no earlier fall. | Armed robbery recovered to around 1,400. |
-        | **rose overall despite some fluctuations** | Use when the endpoint is higher but the line contains reversals. | Do not replace this with *rose steadily*. | Assault rose overall despite some fluctuations. |
-        | **ended close to its starting level** | Use when the first and final values are similar. | This does not mean the series remained stable throughout. | Murder ended close to its starting level. |
-        | **a smaller secondary peak** | Use for a later local maximum below the overall peak. | Do not call it *the highest* or say the series peaked again at the same level. | A smaller secondary peak occurred in 2010. |
-        | **remained close to this level thereafter** | Use when subsequent values stay within a narrow range. | Do not use if another material rise or fall follows. | Armed robbery remained close to this level thereafter. |
+### Takeaways
+- **compares the number of armed robberies, assaults and murders recorded**
+→ Introduces the subject of the graph clearly and formally.
+- **declined substantially over the period**
+→ Describes a strong downward trend across time.
+- **increased overall despite some fluctuations**
+→ Shows a general upward trend but acknowledges irregular changes.
+- **remained far less common than the other two offences**
+→ Highlights relative frequency, useful for comparison.
+- **changed relatively little by comparison**
+→ Indicates stability compared to other variables.
+- **was initially the most prevalent crime**
+→ Establishes starting point dominance in the data.
+- **fell sharply**
+→ Expresses a sudden and significant decrease.
+- **reaching a low of**
+→ Specifies the lowest point in the trend.
+- **then recovered**
+→ Signals a rebound after decline.
+- **remained close to this level until 2012**
+→ Shows stability after change.
+- **making this the most common crime in**
+→ Draws a conclusion about ranking at the end of the period.
+- **peaked at roughly**
+→ Marks the highest point in the data.
+- **before falling and subsequently fluctuating at around**
+→ Describes a peak followed by decline and irregular variation.
+- **for the rest of the period**
+→ Indicates long-term continuation of a trend.
+    
+
+### Task-specific phrase bank
+
+| Phrase | Exact usage condition | Warning / boundary | Example |
+| --- | --- | --- | --- |
+| **was initially the most common offence** | Use when a category ranks first at the beginning. | Verify that it is actually above every other series. | Armed robbery was initially the most common offence. |
+| **was overtaken by** | Use when another series crosses above it. | State the correct crossover year. | Armed robbery was overtaken by assault in 2007. |
+| **reached a peak of X** | Use for the clear maximum of a series. | A lower secondary rise is not another highest value. | Armed robbery reached a peak of 3,600. |
+| **fell to a low of X** | Use when a series reaches its minimum following a decline. | Do not use merely because the value is low relative to another category. | The figure fell to a low of 1,000. |
+| **recovered to X** | Use when a value rises after a preceding decline. | Do not use for an increase that has no earlier fall. | Armed robbery recovered to around 1,400. |
+| **rose overall despite some fluctuations** | Use when the endpoint is higher but the line contains reversals. | Do not replace this with *rose steadily*. | Assault rose overall despite some fluctuations. |
+| **ended close to its starting level** | Use when the first and final values are similar. | This does not mean the series remained stable throughout. | Murder ended close to its starting level. |
+| **a smaller secondary peak** | Use for a later local maximum below the overall peak. | Do not call it *the highest* or say the series peaked again at the same level. | A smaller secondary peak occurred in 2010. |
+| **remained close to this level thereafter** | Use when subsequent values stay within a narrow range. | Do not use if another material rise or fall follows. | Armed robbery remained close to this level thereafter. |
 
 ---
 
-My attempt 1:
+## My attempt 1
 
 The line graph illustrates ~~the~~ changes in the numbers of armed robber~~y~~ies, assaults, and murders committed in London from 2003 to 2012.
 

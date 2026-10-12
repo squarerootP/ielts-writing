@@ -6,6 +6,8 @@
 
 ![image.png](../assets/9b4a0d3b5f8fa03b.png)
 
+## Model answer
+
 The two pie charts compare **the value of goods exported** between Vietnam and the US **across several product categories**, **measured in** millions of dollars.
 
 Overall, Vietnam's exports to the US **were dominated by agricultural products**, particularly coffee and fruit and vegetables. By contrast, US exports to Vietnam were **considerably larger in value** and were **led by** aircraft parts and machinery.
@@ -16,28 +18,28 @@ Coffee was Vietnam's **most valuable export** to the US, at $23 million, followe
 
 ---
 
-- **Take-aways**
-    - **be worth … :** *the exported goods from Vietnam to US were worth $145 million…*
-    - **be valued at:** *aircraft parts were valued at $72 million, making them the largest category.*
-    - **larger in value:** *exports in the “Other” category from the US to Vietnam was larger/greater in value than those from Vietnam to the US*
-    - **stood at**
-    - **rose/fell to**
-    - **increased/decreased by**
-    - **accounted for**
-    - **was valued at**
-    - **was followed by**
-    - **remained relatively stable**
-    - **fluctuated considerably**
-    - **reached a peak of**
-    - **recorded the largest increase**
-    - **was by far the largest/smallest category**
-    - **the corresponding figure was**
-    - **in contrast / by comparison / whereas**
-    - **overall, the most notable feature is that...**
+### Take-aways
+- **be worth … :** *the exported goods from Vietnam to US were worth $145 million…*
+- **be valued at:** *aircraft parts were valued at $72 million, making them the largest category.*
+- **larger in value:** *exports in the “Other” category from the US to Vietnam was larger/greater in value than those from Vietnam to the US*
+- **stood at**
+- **rose/fell to**
+- **increased/decreased by**
+- **accounted for**
+- **was valued at**
+- **was followed by**
+- **remained relatively stable**
+- **fluctuated considerably**
+- **reached a peak of**
+- **recorded the largest increase**
+- **was by far the largest/smallest category**
+- **the corresponding figure was**
+- **in contrast / by comparison / whereas**
+- **overall, the most notable feature is that...**
 
 ---
 
-My attempt 1: 
+## My attempt 1
 
 The two pie charts compare exports between the US and Vietnam, measured in millions of dollars.
 

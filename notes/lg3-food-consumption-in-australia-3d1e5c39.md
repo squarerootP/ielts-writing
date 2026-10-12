@@ -6,6 +6,8 @@
 
 ![image.png](../assets/d5f00473267b382f.png)
 
+## Model answer
+
 The line graph compares **per-capita consumption** of five food categories in Australia between 1950 and 2010, **measured in kilograms** per year.
 
 Overall, vegetables remained **the most widely consumed** food throughout the period and **finished at** a record high, while fruit **showed substantial long-term growth**. By contrast, meat consumption **declined overall after considerable fluctuation**. Bread also fluctuated but **rose moderately** across the period, whereas seafood remained by far the least consumed category and changed very little.
@@ -16,53 +18,53 @@ Meat consumption **started at just over** 100 kg and **fluctuated around this le
 
 ---
 
-- Take-aways
-    - **per-capita consumption**
-    → Specifies measurement per person, adds precision to data description.
-    - **measured in kilograms**
-    → Clarifies the unit of measurement, essential for accuracy.
-    - **the most widely consumed**
-    → Highlights dominance or popularity of a category.
-    - **finished at**
-    → Indicates the final value at the end of the period.
-    - **showed substantial long-term growth**
-    → Describes a strong upward trend sustained over time.
-    - **declined overall after considerable fluctuation**
-    → Combines both irregular changes and a downward trend.
-    - **rose moderately**
-    → Expresses a small but noticeable increase.
-    - **began at**
-    → Establishes the starting point of a trend.
-    - **remained close to this level**
-    → Shows stability around a certain value.
-    - **before falling to**
-    → Signals a drop after a stable or rising phase.
-    - **alternated between about**
-    → Describes repeated variation between two values.
-    - **rose sharply to**
-    → Indicates a sudden and significant increase.
-    - **followed a clearer upward trend**
-    → Highlights a consistent rise compared to other categories.
-    - **climbed steadily**
-    → Shows gradual, continuous growth.
-    - **started at just over**
-    → Provides a precise starting value with slight approximation.
-    - **fluctuated around this level**
-    → Indicates irregular variation near a central value.
-    - **several decades**
-    → Adds time-scale emphasis, useful for long-term trends.
-    - **reaching a peak of almost**
-    → Marks the highest point with near precision.
-    - **before dropping markedly**
-    → Signals a sharp decline after a peak.
-    - **showed the least variation**
-    → Highlights stability compared to other categories.
-    - **falling slightly below**
-    → Indicates a small decrease beneath a threshold.
+### Take-aways
+- **per-capita consumption**
+→ Specifies measurement per person, adds precision to data description.
+- **measured in kilograms**
+→ Clarifies the unit of measurement, essential for accuracy.
+- **the most widely consumed**
+→ Highlights dominance or popularity of a category.
+- **finished at**
+→ Indicates the final value at the end of the period.
+- **showed substantial long-term growth**
+→ Describes a strong upward trend sustained over time.
+- **declined overall after considerable fluctuation**
+→ Combines both irregular changes and a downward trend.
+- **rose moderately**
+→ Expresses a small but noticeable increase.
+- **began at**
+→ Establishes the starting point of a trend.
+- **remained close to this level**
+→ Shows stability around a certain value.
+- **before falling to**
+→ Signals a drop after a stable or rising phase.
+- **alternated between about**
+→ Describes repeated variation between two values.
+- **rose sharply to**
+→ Indicates a sudden and significant increase.
+- **followed a clearer upward trend**
+→ Highlights a consistent rise compared to other categories.
+- **climbed steadily**
+→ Shows gradual, continuous growth.
+- **started at just over**
+→ Provides a precise starting value with slight approximation.
+- **fluctuated around this level**
+→ Indicates irregular variation near a central value.
+- **several decades**
+→ Adds time-scale emphasis, useful for long-term trends.
+- **reaching a peak of almost**
+→ Marks the highest point with near precision.
+- **before dropping markedly**
+→ Signals a sharp decline after a peak.
+- **showed the least variation**
+→ Highlights stability compared to other categories.
+- **falling slightly below**
+→ Indicates a small decrease beneath a threshold.
 
 ---
 
-My attempt 1:
+## My attempt 1
 
 The line graph illustrates the changes in the amounts of five types of food consumed per person per year in Australia from 1950 to 2010.
 

@@ -4,9 +4,9 @@
 
 ---
 
-```python
-"this is a little bit too short"
-```
+> "this is a little bit too short"
+
+## Model answer
 
 The table compares the expenses of a **second-hand bookshop** in Scotland in January and December 2018.
 

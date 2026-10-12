@@ -6,7 +6,7 @@ Some people think scientific research should focus on solving world health probl
 
 ---
 
-**Model answer**: 
+## Model answer
 
 **Opinions differ over whether** scientific research should primarily focus on global health problems or give greater attention to other major challenges. Although medical research is **essential for protecting human life and improving well-being**, I believe environmental and technological research can sometimes **deserve equal or even greater priority** because their effects **extend across many areas of society**.
 
@@ -16,7 +16,7 @@ Some people think scientific research should focus on solving world health probl
 
 **In conclusion**, health research should remain **a major scientific priority** because of its **direct contribution to human survival and well-being**. However, I believe research funding should not be **concentrated mainly on medicine**, since environmental and technological advances can **address wider and more interconnected challenges affecting society as a whole**.
 
-**My attempt**:
+## My attempt
 
 Opinions differ over whether scientific research should primarily focus on global health issues or give greater attention to other major problems.  Although medical research has proved essential for protecting human life and improving well-being, I believe environmental and technological research deserve equal or even greater priority because their effects extend across many areas of society.
 

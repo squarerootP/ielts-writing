@@ -4,6 +4,8 @@
 
 ---
 
+## Model answer
+
 The pie chart **presents the worldwide breakdown** of private insurance policies, and the table **compares the proportions** of people **owning such policies** in India, England and Australia.
 
 Overall, auto, health and life insurance **together account for** almost all policies globally, **with** auto coverage **forming the largest category**. England has the highest overall **ownership rate** of the three countries. The global ranking of auto, health and life **is also reproduced** in England and Australia, **but not in India**, **where** health insurance **is the leading type**.

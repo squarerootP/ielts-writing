@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import {fileURLToPath,pathToFileURL} from 'node:url';
+import {fileURLToPath} from 'node:url';
+import {studyLayout} from './study-layout.mjs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const {marked}=await import('./vendor/marked.mjs');
 const workspace=JSON.parse(await fs.readFile(path.join(root,'workspace.json'),'utf8'));
@@ -22,7 +23,8 @@ for(const p of workspace.pages){
   };
   renderer.link=function({href,title,tokens}){return `<a href="${escape(urlFor(href))}"${title?` title="${escape(title)}"`:''}>${this.parser.parseInline(tokens)}</a>`;};
   renderer.image=({href,text})=>`<a class="image-link" href="${escape(urlFor(href))}" target="_blank" rel="noopener"><img loading="lazy" src="${escape(urlFor(href))}" alt="${escape(text||'Writing task chart')}"></a>`;
-  let html=marked.parse(markdown,{renderer,gfm:true,breaks:false});
+  const parse=content=>marked.parse(content,{renderer,gfm:true,breaks:false});
+  let html=studyLayout(markdown,p,parse);
   html=html.replace(/<table>/g,'<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable notes table"><table>').replace(/<\/table>/g,'</table></div>');
   const headings=new Map();
   html=html.replace(/<h([1-6])>(.*?)<\/h\1>/gs,(_,level,title)=>{
